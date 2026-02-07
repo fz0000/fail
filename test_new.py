@@ -1,3 +1,3 @@
-import os
+import func
 
-print(os.__file__)
+func('a','b')
